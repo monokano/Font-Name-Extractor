@@ -12,7 +12,7 @@ Font Name Extracterのアプリアイコンにフォントファイルをドラ�
 
 ### 仕様
 * nameテーブルからフォント名に関する箇所（name IDの1,2,4,6,16,17）のみ抜き出します。
-* Mac用のlanguageIdは除外します。
+* Mac用のlanguage IDは除外します。
 * Unicodeエンコードされている文字をデコードして表示します。
 
 ## 更新履歴
