@@ -1,6 +1,6 @@
 ![](https://tama-san.com/icon/icon128_FontNameExtracter.png)
 
-# Font-Name-Extracter
+# Font Name Extracter
 フォントファイルからフォント名を抜き出すMac用デスクトップアプリ（ドロップレット）
 
 ## システム要件
