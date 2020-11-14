@@ -16,6 +16,8 @@ Font Name Extracterのアプリアイコンにフォントファイルをドラ�
 * Mac用のlanguage IDの箇所は除外します。
 
 ## 更新履歴
+* 1.1.1
+	* 微細な修正。
 * 1.1.0
 	* ウインドウに保存ボタンを追加。
 	* Mac用language IDの除外を改善。
