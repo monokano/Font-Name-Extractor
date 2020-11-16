@@ -1,6 +1,6 @@
-![](https://tama-san.com/icon/icon128_FontNameExtracter.png)
+![](https://tama-san.com/icon/icon128_FontNameExtractor.png)
 
-# Font Name Extracter
+# Font Name Extractor
 フォントファイルからフォント名を抜き出すMac用デスクトップアプリ（ドロップレット）
 
 ## システム要件
@@ -8,7 +8,7 @@
 * ダウンロードして解凍した直後は、右クリックメニューの［開く］を選択して起動してください。
 
 ## 使い方
-Font Name Extracterのアプリアイコンにフォントファイルをドラッグ＆ドロップします。
+Font Name Extractorのアプリアイコンにフォントファイルをドラッグ＆ドロップします。
 
 ### 仕様
 * nameテーブルからフォント名に関する箇所（name IDの1,2,4,6,16,17）のみ抜き出します。
@@ -16,6 +16,9 @@ Font Name Extracterのアプリアイコンにフォントファイルをドラ�
 * Mac用のlanguage IDの箇所は除外します。
 
 ## 更新履歴
+* 1.1.2
+	* アプリ名のスペルを間違えていたので直した…。
+	* ついでにアイコンをブラッシュアップ。
 * 1.1.1
 	* 微細な修正。
 * 1.1.0
