@@ -1,4 +1,4 @@
-![](https://tama-san.com/icon/icon128_FontNameExtractor_new.png)
+![](https://tama-san.com/icon/icon128_FontNameExtractor112.png)
 
 # Font Name Extractor
 フォントファイルからフォント名を抜き出すMac用デスクトップアプリ（ドロップレット）
